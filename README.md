@@ -2,7 +2,7 @@
 
 A micro web framework for Golang.
 
-Inspired with Echo Framework.
+
 ## Features
 
 - Fast HTTP router which smartly prioritize routes.
@@ -45,3 +45,6 @@ Inspired with Echo Framework.
 ```sh
 $ go get github.com/santoshanand/spark
 ```
+
+
+Inspired with Echo Framework.
