@@ -1,9 +1,9 @@
-## Sparx
+## Spark
 
 
 ```
   go get github.com/santoshanand/spark/spark
-  
+
 ```
 ``` go 
 package main
