@@ -2,7 +2,7 @@
 
 
 ```
-  go get github.com/santoshanand/spark/spark
+  go get github.com/santoshanand/spark
 
 ```
 ``` go 
@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/santoshanand/spark/spark"
+	"github.com/santoshanand/spark"
 )
 
 func main() {
